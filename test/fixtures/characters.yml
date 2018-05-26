@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  race: MyString
+  class: MyString
+  tot_str: 1
+  tot_dex: 1
+  tot_con: 1
+  tot_int: 1
+  tot_wis: 1
+  tot_char: 1
+
+two:
+  name: MyString
+  race: MyString
+  class: MyString
+  tot_str: 1
+  tot_dex: 1
+  tot_con: 1
+  tot_int: 1
+  tot_wis: 1
+  tot_char: 1
